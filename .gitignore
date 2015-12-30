@@ -1,4 +1,6 @@
 # Comment 
+.idea/
+*.iml
 tempfile.txt
 tempfile2.txt
 .DS_Store
